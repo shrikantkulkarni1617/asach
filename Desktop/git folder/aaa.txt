@@ -1,0 +1,2 @@
+join:-
+inner join, self join,outer join,cross join
